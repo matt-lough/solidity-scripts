@@ -21,6 +21,7 @@ Calls the solidity function profiler on every contract in the contracts director
 ## Issues to markdown
 
 Converts a list of issues from a repo into a formatted markdown
+
 https://github.com/matt-lough/issue-to-md
 
 ## Check ETH Balances for list of addresses
