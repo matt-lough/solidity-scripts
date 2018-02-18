@@ -2,11 +2,10 @@
 
 ## create_labels
 
+_Must set `USER`, `PASS`, `REPO_USER`, and `REPO` inside `create_labels.sh`_
 Adds labels required for audit to repo
 
 ## make_flat
-
-_Must set `USER`, `PASS`, `REPO_USER`, and `REPO` inside `create_labels.sh`_
 
 Calls truffle flattener on every contract in the contracts directory
 
