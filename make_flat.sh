@@ -1,5 +1,5 @@
 mkdir -p flattened
-for file in ./contracts/*
+for file in ./contracts/*.sol ./contracts/**/*.sol
 do
   echo "Flattening $(basename $file)"
   touch flattened/$(basename $file)
